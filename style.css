@@ -1,0 +1,29 @@
+body{
+font-family: Arial;
+text-align:center;
+background:#111;
+color:white;
+}
+
+.movie img{
+width:500px;
+border-radius:10px;
+}
+
+.movie{
+margin:30px;
+}
+
+.videos iframe{
+margin:10px;
+}
+
+.episode{
+display:inline-block;
+padding:15px 30px;
+background:red;
+color:white;
+text-decoration:none;
+border-radius:8px;
+font-size:20px;
+}
